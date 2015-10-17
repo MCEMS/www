@@ -1,6 +1,8 @@
 ---
-title: Bystander CPR, AHA CPR Certification at Muhlenberg College
+title: Bystander CPR and AHA CPR Certification at Muhlenberg College
 layout: default
+description: MCEMS offers free bystander CPR classes periodically, and often holds quick workshops at the many campus events we have booths at, such as the Activities Fair, Community Service Fair, and others. Bystander CPR teaches students the crucial steps they need to perform to save a life in the event of cardiac arrest. It's quick, easy, and free to learn.
+image: https://www.bergems.org/assets/images/cpr_class.jpg
 ---
 
 <div class="row">
@@ -24,6 +26,9 @@ layout: default
   <div class="col-md-4">
     <h2>Upcoming Sessions</h2>
     <p class="lead">Email <a href="mailto:CPR@bergems.org">CPR@bergems.org</a> to register</p>
+    {% unless site.data.cpr %}
+    <p>No sessions currently scheduled. Check back soon!</p>
+    {% endunless %}
     {% for session in site.data.cpr %}
       {% if session.type == 'bystander' %}
       <div class="panel panel-success">

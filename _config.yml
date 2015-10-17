@@ -9,3 +9,5 @@ keywords:
 sass:
   style: compressed
 timezone: Etc/GMT
+gems:
+  - jekyll-redirect-from

@@ -1,21 +1,9 @@
 # Type must be one of 'bystander', 'aha'
-- start_time: 2016-01-01 12:00:00
-  end_time: 2016-01-01 17:00:00
-  location: "Activities Fair, Seegers Union"
-  type: bystander
-
-- start_time: 2016-01-01 12:00:00
-  end_time: 2016-01-01 17:00:00
-  location: "Activities Fair, Seegers Union"
-  type: aha
-  info: "Cost of class is free, certification will cost a nominal fee"
-
-- start_time: 2016-01-01 12:00:00
-  end_time: 2016-01-01 17:00:00
-  location: "Activities Fair, Seegers Union"
-  type: bystander
-
-- start_time: 2016-01-01 12:00:00
-  end_time: 2016-01-01 17:00:00
-  location: "Activities Fair, Seegers Union"
-  type: bystander
+# 
+# Example (note the hyphen denoting the start of the session, as well
+# as the proper indentation):
+# 
+# - start_time: 2016-01-01 12:00:00
+#   end_time: 2016-01-01 17:00:00
+#   location: "Activities Fair, Seegers Union"
+#   type: bystander
