@@ -1,0 +1,46 @@
+---
+layout: default
+title: Muhlenberg College EMS
+---
+
+<div class="row">
+  <div class="col-md-4">
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <a href="tel:+14846643110"><b>Emergency:</b> (484) 664-3110</a>
+      </div>
+    </div>
+    <div class="thumbnail">
+      <img src="/assets/images/cpr_class.jpg">
+      <div class="caption">
+        <h2><a href="/learn-cpr/">Get CPR certified</a></h2>
+        <p>MCEMS offers free CPR classes on campus, led by our American Heart Association certified instructors.</p>
+        <p><a href="/learn-cpr/" class="btn btn-default" role="button">Sign Up</a></p>
+      </div>
+    </div>
+
+    <div class="thumbnail">
+      <img src="/assets/images/training.jpg">
+      <div class="caption">
+        <h2><a href="/become-an-emt/">Become an EMT</a></h2>
+        <p>Explore the world of emergency medicine by becoming a PA DOH certified Emergency Medical Technician! Learn how you can receive training and become certified.</p>
+        <p>If you're interested in becoming an EMT, you can also join MCEMS as a member of the <a href="/join-mcems/">training corps</a> while you are getting certified.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-8">
+    <p class="lead">Muhlenberg College EMS provides quick response Basic Life Support to the campus community</p>
+    <p>We are a student-run, volunteer EMS organization serving our campus of approximately 2400 students. Our hours of service are 5:00 p.m. to 8:00 a.m. on week nights with 24 hour response on weekends (5:00 p.m. Friday to 8:00 a.m. Monday).</p>
+    <p>Currently, our membership consists of {{ site.data.membership.emt }} certified EMTs and {{ site.data.membership.training_corps }} <a href="/join-mcems/">training corps</a> members. We operate as a Pennsylvania Department of Health certified Basic Life Support Quick Response Service, which means that we arrive on scene quickly, stabilize the patient, and prepare them for transport to a hospital by ambulance (if needed).</p>
+
+    {% capture news %}{% include news.markdown %}{% endcapture %}
+    {{ news | markdownify }}
+
+    <h2>Our Vehicle</h2>
+    <p>As a quick response service, we operate a Ford SUV that carries almost everything that would be found in a BLS ambulance. This includes a "first in" bag with oxygen supplies, bandages, splints, airways, various size blood pressure cuffs and stethoscopes, and more.</p>
+    <div class="thumbnail">
+      <img src="/assets/images/qrs1_demo.jpg">
+    </div>
+    <p>We also carry a backboard to restrict spinal movement in patients with suspected spinal injuries, a stair chair, personal protective equipment, Epi-Pens, and much more.</p>
+  </div>
+</div>

@@ -1,0 +1,46 @@
+---
+---
+
+@import "fonts";
+@import "colors";
+
+body {
+  font-family: $font-stack;
+}
+
+a {
+  color: $red;
+}
+
+a:hover {
+  color: $red;
+}
+
+.navbar-mcems {
+  background-color: $red;
+  color: #ffffff;
+  border-radius: 0;
+  a {
+    color: #ffffff;
+  }
+
+  .nav li a:hover,
+  .nav li.active {
+    background-color: darken($red, 10%);
+  }
+}
+
+.btn-default {
+  color: $red;
+}
+
+.site-footer {
+  background-color: $footer-background;
+  color: $footer-text;
+  padding: 1em;
+
+  a {
+    color: $footer-text;
+    text-decoration: underline;
+  }
+}
