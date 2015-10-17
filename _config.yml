@@ -8,25 +8,4 @@ keywords:
   - lehigh county ems
 sass:
   style: compressed
-nav:
-  - url: /learn-cpr/index.html
-    href: /learn-cpr/
-    text: Learn CPR
-  - url: /join-mcems/index.html
-    href: /join-mcems/
-    text: Join MCEMS
-  - url: /apparatus/index.html
-    href: /apparatus/
-    text: Apparatus
-  - url: /faq/index.html
-    href: /faq/
-    text: FAQ
-  - url: /officers/index.html
-    href: /officers/
-    text: Officers
-  - url: /contact/index.html
-    href: /contact/
-    text: Contact
-membership:
-  emt: ???
-  training_corps: 12iuhiuh
+timezone: Etc/GMT

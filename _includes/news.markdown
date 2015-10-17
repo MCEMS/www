@@ -1,5 +1,5 @@
 MCEMS Welcomes 15 New Members!
-------------------------------
+==============================
 
 Welcome to our 15 new members! We are so happy to have you join our ranks!
 

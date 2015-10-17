@@ -16,47 +16,75 @@
   <body>
     <nav class="navbar navbar-mcems">
       <div class="container">
-        <b><a href="/" class="navbar-brand">Muhlenberg College EMS</a></b>
-        <ul class="nav navbar-nav">
-          {% for item in site.nav %}
-          <li {% if page.url == item.url %}class="active"{% endif %}><a href="{{ item.href }}">{{ item.text }}</a></li>
-          {% endfor %}
-        </ul>
-        <p class="navbar-text navbar-right"><a href="https://portal.bergems.org/">Member Portal</a></p>
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mcems-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <b><a href="/" class="navbar-brand">Muhlenberg College EMS</a></b>
+        </div>
+        <div class="collapse navbar-collapse" id="mcems-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            {% for item in site.data.nav %}
+            <li {% if page.url == item.url %}class="active"{% endif %}><a href="{{ item.href }}">{{ item.text }}</a></li>
+            {% endfor %}
+          </ul>
+          <div class="navbar-text navbar-right">
+            <a href="https://portal.bergems.org/">Member Portal</a>
+          </div>
+        </div>
       </div>
     </nav>
     <div class="container">
-      <div class="row">
+      <div class="row hidden-sm hidden-xs">
         <div class="col-sm-12">
-          <p><img src="/assets/images/backs.jpg"></p>
+          <p><img class="banner" src="/assets/images/backs.jpg"></p>
         </div>
       </div>
       {{ content }}
     </div>
-    <footer class="container site-footer">
-      <div class="row">
-        <div class="col-md-4">
-          <p>
-            <b>Emergency:</b> (484) 664-3110<br>
-            <b>Non-Emergency:</b> (484) 664-3112
-          </p>
-          <p>
-            Muhlenberg College EMS<br>
-            Department of Campus Safety<br>
-            Muhlenberg College<br>
-            2400 West Chew Street<br>
-            Allentown, Pennsylvania 18104
-          </p>
-        </div>
-        <div class="col-md-4">
-          <p class="text-center"><a href="https://www.facebook.com/MuhlenbergEMS">Find us on Facebook</a></p>
-          <p class="text-center">
-            Copyright Muhlenberg College EMS<br>
-            All rights reserved
-          </p>
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 hidden-sm hidden-xs">
+            <p>
+              <b>Emergency:</b> (484) 664-3110<br>
+              <b>Non-Emergency:</b> (484) 664-3112
+            </p>
+            <p>
+              Muhlenberg College EMS<br>
+              Department of Campus Safety<br>
+              Muhlenberg College<br>
+              2400 West Chew Street<br>
+              Allentown, Pennsylvania 18104
+            </p>
+          </div>
+          <div class="col-md-4">
+            <div class="text-center">
+              <p><a href="https://www.facebook.com/MuhlenbergEMS">Find us on Facebook</a></p>
+              <p><a href="mailto:info@bergems.org">info@bergems.org</a></p>
+              <p>
+                Copyright Muhlenberg College EMS<br>
+                All rights reserved
+              </p>
+            </div>
+          </div>
+          <div class="col-md-4 hidden-sm hidden-xs">
+            <nav class="text-right">
+              <ul class="no-marker">
+                <li><a href="https://portal.bergems.org/">Member Portal</a></li>
+                <li><a href="/learn-cpr/">Hands-Only CPR</a></li>
+                <li><a href="/join-mcems/">Join MCEMS</a></li>
+                <li><a href="/officers/">Executive Board</a></li>
+                <li><a href="/faq/">Hours of Operation</a></li>
+              </ul>
+            </nav>
         </div>
       </div>
     </footer>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   </body>
 </html>

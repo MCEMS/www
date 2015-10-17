@@ -8,6 +8,10 @@ body {
   font-family: $font-stack;
 }
 
+p {
+  font-size: 16px;
+}
+
 a {
   color: $red;
 }
@@ -34,13 +38,34 @@ a:hover {
   color: $red;
 }
 
+.btn-primary {
+  background-color: $red;
+  border-color: darken($red, 10%);
+  &:hover {
+    background-color: darken($red, 10%);
+  }
+}
+
 .site-footer {
   background-color: $footer-background;
   color: $footer-text;
   padding: 1em;
+  margin-top: 2em;
 
   a {
     color: $footer-text;
     text-decoration: underline;
   }
+}
+
+.banner {
+  width: 100%;
+}
+
+.no-marker {
+  list-style-type: none;
+}
+
+.icon-bar {
+  background-color: #ffffff;
 }
