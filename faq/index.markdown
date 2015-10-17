@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MCEMS Frequently Asked Questions
+redirect_from: /page/faq
 ---
 
 Frequently Asked Questions
@@ -19,6 +20,10 @@ On-duty EMTs are paged by the Campus Safety dispatcher using a radio system and 
     <img src="/assets/images/qrs1_6289.jpg">
   </div>
 </div>
+
+### When does MCEMS operate?
+
+MCEMS is in service during the academic year when the college Health Center is closed. We are in service from 5:00 p.m. to 8:00 a.m. daily, as well as during the daytime hours on Saturdays and Sundays.
 
 ### Why does Campus Safety show up on medical calls? Am I in trouble?
 

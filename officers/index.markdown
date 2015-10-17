@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MCEMS Line Officers and Executive Board
+redirect_from: /page/executive-board
 ---
 
 Line Officers

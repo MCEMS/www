@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MCEMS Apparatus, QRS-1
+redirect_from: /page/vehicle
 ---
 
 Our Vehicle
