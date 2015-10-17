@@ -2,16 +2,14 @@
 layout: default
 title: MCEMS Apparatus, QRS-1
 redirect_from: /page/vehicle
+description: In 2014, we purchased a new vehicle, radio-designated QRS-1, as our primary response vehicle to respond to medical emergencies on the Muhlenberg College campus. QRS-1 is a Quick Response Vehicle that contains equipment for the Basic Life Support (BLS) level. QRS-1 is a 2013 Ford Interceptor Utility Police Package.
+image: https://www.bergems.org/assets/images/qrs1_haas.jpg
 ---
 
 Our Vehicle
 ===========
 
 In 2014, we purchased a new vehicle, radio-designated QRS-1, as our primary response vehicle to respond to medical emergencies on the Muhlenberg College campus. QRS-1 is a Quick Response Vehicle that contains equipment for the Basic Life Support (BLS) level. QRS-1 is a 2013 Ford Interceptor Utility Police Package.
-
-<!-- <div class="text-center">
-  <p><img src="/assets/images/qrs1_haas.jpg"></p>
-</div> -->
 
 <div class="row">
   <div class="col-md-6">

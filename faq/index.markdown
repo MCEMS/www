@@ -2,6 +2,7 @@
 layout: default
 title: MCEMS Frequently Asked Questions
 redirect_from: /page/faq
+description: Find the answers to common questions. How do I call MCEMS? How long will it take you to arrive? When does MCEMS operate? What will happen when I call?
 ---
 
 Frequently Asked Questions
