@@ -42,6 +42,8 @@ We will generally discuss these options with you and allow you to choose the one
 
 There are certain situations in which EMTs are required to transport patients to an emergency room. These include patients with an altered mental status or are suicidal who cannot legally refuse care, or who have other critical conditions.
 
+While MCEMS does not bill for its services, [Allentown EMS](http://www.allentownpa.gov/EMS-Paramedics) bills non-residents and [Cetronia Ambulance Corps](https://www.cetronia.org/) does bill its patients. The exact cost will vary based on the services they provide and your insurance coverage.
+
 <div class="pull-left" style="max-width:40%;margin:1em;">
   <div class="thumbnail">
     <img src="/assets/images/new_members_f15.jpg">
