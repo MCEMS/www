@@ -1,31 +1,22 @@
 ---
 ---
 
-@import "fonts";
-@import "colors";
+@import "bootstrap/bootstrap";
 
-body {
-  font-family: $font-stack;
+@font-face {
+  font-family: 'EncodeSans';
+  src: url(/assets/fonts/EncodeSansNormal-400-Regular.ttf);
+  font-weight: 400;
 }
 
-p {
-  font-size: 16px;
-}
-
-p.lead {
-  font-size: 26px;
-}
-
-a {
-  color: $red;
-}
-
-a:hover {
-  color: $red;
+@font-face {
+  font-family: 'EncodeSans';
+  src: url(/assets/fonts/EncodeSansNormal-600-SemiBold.ttf);
+  font-weight: 500;
 }
 
 .navbar-mcems {
-  background-color: $red;
+  background-color: $brand-primary;
   color: #ffffff;
   border-radius: 0;
   a {
@@ -34,34 +25,18 @@ a:hover {
 
   .nav li a:hover,
   .nav li.active {
-    background-color: darken($red, 10%);
-  }
-}
-
-.btn.btn-default {
-  color: $red;
-}
-
-.btn.btn-primary {
-  background-color: $red;
-  border-color: darken($red, 10%);
-  &:hover {
-    background-color: darken($red, 10%);
-  }
-
-  &:active {
-    background-color: darken($red, 10%);
+    background-color: darken($brand-primary, 10%);
   }
 }
 
 .site-footer {
-  background-color: $footer-background;
-  color: $footer-text;
+  background-color: $gray;
+  color: $gray-medium;
   padding: 1em;
   margin-top: 2em;
 
   a {
-    color: $footer-text;
+    color: $gray-medium;
     text-decoration: underline;
   }
 }
