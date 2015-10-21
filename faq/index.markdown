@@ -12,7 +12,7 @@ Frequently Asked Questions
 
 Call Campus Safety at [(484) 664-3310](tel:+14846643110) and ask for MCEMS to be dispatched. The dispatcher will ask you some questions in order to make sure the right resources are sent to the right place.
 
-### How long will it take you to arrive?
+### How long does it take EMS to arrive?
 
 On-duty EMTs are paged by the Campus Safety dispatcher using a radio system and respond from wherever they are on campus. During the Fall 2013 semester, an EMT was on scene in an average of about four minutes of being dispatched.
 
