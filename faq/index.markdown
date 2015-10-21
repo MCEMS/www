@@ -16,6 +16,10 @@ Call Campus Safety at [(484) 664-3310](tel:+14846643110) and ask for MCEMS to be
 
 On-duty EMTs are paged by the Campus Safety dispatcher using a radio system and respond from wherever they are on campus. During the Fall 2013 semester, an EMT was on scene in an average of about four minutes of being dispatched.
 
+### How many calls do you respond to?
+
+During the 2014-2015 academic year, we responded to 172 calls including medical standby events.
+
 <div class="pull-right" style="max-width:40%;margin:1em;">
   <div class="thumbnail">
     <img src="/assets/images/qrs1_6289.jpg">
