@@ -4,11 +4,6 @@ title: Page Not Found - MCEMS
 description: The page you requested was not found or no longer exists.
 ---
 
-The page you requested was not found
-====================================
-
-The page you requested does not exist or may have been deleted. Unfortunately, despite our best efforts, this does happen from time to time.
-
 Perhaps one of these pages will help:
 
 * [Member Portal](https://portal.bergems.org/)
