@@ -1,10 +1,8 @@
-MCEMS Welcomes 15 New Members!
-==============================
+MCEMS Congratulates New Executive Board!
+========================================
 
-Welcome to our 15 new members! We are so happy to have you join our ranks!
+Congratulations to everyone! Let's make this a productive new year! 
 
-**8 Probationary EMTs:** Gianna Barres, Nicole Bilgram, Jeremy Eichler, Sarah Evenosky, Rebecca Finkelman, Laura Gleason, Nicole Marsh, Nikita Sawant.
+**Closed Executive Board:** Ashley Landesman (Captain), Eli Russ (1st Lieutenant), Justin Eigen (2nd Lieutenant), Melissa Edgar (President), Sara Kass (Secretary), and Kenneth Siry (Treasurer)
 
-**7 Training Corps members:** Gal Behiri, Jarred Graber, Alyssa Horwitz, Julia Leep-Lazar, Simon Michel, Jacob Saxon, Taylor Zuckerman.
-
-Membership Applications will reopen in Spring 2016 after the Activities Fair.
+**Open Executive Board:** Nathan Brown and Thomas Yanushefski (Technology Officers), Katherine Nichols (Infection Control Officer), Greg Kantor and Rachel Rochelson (Supply Managers), Jeremy Eichler (Recording Secretary), Katy Mayer and Laura Gleason (Social Coordinators), and Sarah Evenosky (Publicity Coordinator)
