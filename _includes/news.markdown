@@ -1,3 +1,11 @@
+MCEMS Welcomes 5 New Members! We're so excited to have you in our ranks!
+========================================================================
+**Probationary Member (EMT):** Svati Zaveri
+
+**Training Corps (non-EMT):** Thomas Barrett, Danielle Chaluts, Francine Koitz, and Hannah Molk
+
+We are looking forward to getting to know all of you!
+
 MCEMS Congratulates New Executive Board!
 ========================================
 
