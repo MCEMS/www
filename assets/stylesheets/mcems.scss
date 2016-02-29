@@ -30,13 +30,13 @@
 }
 
 .site-footer {
-  background-color: $gray;
-  color: $gray-medium;
+  background-color: $gray-lighter;
+  color: $gray;
   padding: 1em;
   margin-top: 2em;
 
   a {
-    color: $gray-medium;
+    color: $gray;
     text-decoration: underline;
   }
 }
