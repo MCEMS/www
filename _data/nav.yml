@@ -10,9 +10,9 @@
 - url: /faq/index.html
   href: /faq/
   text: FAQ
-- url: /officers/index.html
-  href: /officers/
-  text: Officers
+- url: /members/index.html
+  href: /members/
+  text: Members
 - url: /contact/index.html
   href: /contact/
   text: Contact

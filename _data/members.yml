@@ -1,0 +1,34 @@
+- section: Line Officers
+  people:
+    - role: Captain
+      name: Ashley Landesman
+      class_year: 2017
+      bio: Here is a brief bio!
+      photo: ashley_landesman.png
+    - role: First Lieutenant
+      name: Eli Russ
+      class_year: 2017
+      bio: Here is my bio
+      photo: eli_russ.png
+- section: Executive Board
+  people:
+    - role: President
+      name: Melissa Edgar
+      class_year: 2018
+      bio: Here is a brief bio!
+      photo: melissa_edgar.png
+    - role: Secretary
+      name: Sara Kass
+      class_year: 2018
+      bio: Here is my bio
+- section: Members
+  people:
+    - name: ASDF ASD
+      class_year: 2018
+      bio: Here is a brief bio!
+      photo: person.png
+    - role: Training Corps
+      name: AAAAAAA
+      bio: Here is my bio
+      photo: person.png
+    - name: Ben Burwell

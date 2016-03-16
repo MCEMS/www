@@ -1,0 +1,48 @@
+---
+layout: default
+title: MCEMS Line Officers and Executive Board
+redirect_from:
+  - /page/executive-board/
+  - /officers/
+description: Current MCEMS line officers, executive board, and advisors.
+---
+
+{% for section in site.data.members %}
+  <h1 class="text-center">{{ section.section }}</h1>
+  <div class="row row-centered">
+    {% for person in section.people %}
+      <div class="col-xs-12 col-sm-6 col-md-3 col-centered">
+        <div class="thumbnail">
+          {% if person.photo %}
+            <img src="/assets/images/members/{{person.photo}}" alt="{{person.name}}">
+          {% endif %}
+          <div class="caption">
+            <p class="text-center">
+              <strong>{{person.name}}</strong>
+              {% if person.role or person.class_year %}
+                <br>
+                <small>
+                  {% if person.role %}
+                    {{person.role}}
+                  {% endif %}
+                  {% if person.role and person.class_year %}
+                    -
+                  {% endif %}
+                  {% if person.class_year %}
+                    Class of {{person.class_year}}
+                  {% endif %}
+                </small>
+              {% endif %}
+              {% if person.bio %}
+                <br>
+                <small>
+                  {{person.bio}}
+                </small>
+              {% endif %}
+            </p>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}
