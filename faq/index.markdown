@@ -28,7 +28,7 @@ During the 2014-2015 academic year, we responded to 172 calls including medical 
 
 ### When does MCEMS operate?
 
-MCEMS is in service during the academic year when the college Health Center is closed. We are in service from 5:00 p.m. to 8:00 a.m. daily, as well as during the daytime hours on Saturdays and Sundays.
+As of March 2016, MCEMS operates 24 hours during the school year. Campus Safety dispatches MCEMS via the mobile app, Active911, when they receive requests for medical assistance on campus. In addition to the 24 hour service through Active911, MCEMS operates a duty crew that is active during the hours the Health Center is not open (between 5:00 pm and 8:00 am). 
 
 ### Why does Campus Safety show up on medical calls? Am I in trouble?
 
