@@ -1,16 +1,6 @@
-MCEMS Welcomes 5 New Members! We're so excited to have you in our ranks!
-========================================================================
-**Probationary Member (EMT):** Svati Zaveri
+Welcome to our 11 newest members of MCEMS! We are so happy to have you join our ranks!
+======================================================================================
 
-**Training Corps (non-EMT):** Thomas Barrett, Danielle Chaluts, Francine Koitz, and Hannah Molk
+**9 PROBATIONARY MEMBERS (EMT):** Sydney Carey, Kayla Ciok, Anthony DiPalma, Alex Domaradsky, Jared Krieger, Jason Richwall, Jaimie Shinberg, Luke Miller, and Dalas Zeichner
 
-We are looking forward to getting to know all of you!
-
-MCEMS Congratulates New Executive Board!
-========================================
-
-Congratulations to everyone! Let's make this a productive new year! 
-
-**Closed Executive Board:** Ashley Landesman (Captain), Eli Russ (1st Lieutenant), Justin Eigen (2nd Lieutenant), Melissa Edgar (President), Sara Kass (Secretary), and Kenneth Siry (Treasurer)
-
-**Open Executive Board:** Nathan Brown and Thomas Yanushefski (Technology Officers), Katherine Nichols (Infection Control Officer), Greg Kantor and Rachel Rochelson (Supply Managers), Jeremy Eichler (Recording Secretary), Katy Mayer and Laura Gleason (Social Coordinators), and Sarah Evenosky (Publicity Coordinator)
+**2 TRAINING CORPS (non-EMTs):** Charles Groves, Katarina Liberatore
