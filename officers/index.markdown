@@ -17,7 +17,7 @@ Executive Board
 
 **President:** Jeremy Eichler '19
 
-**Secretary:** Jared Krieger '20  (secretary@bergems.org)
+**Secretary:** Dalas Zeichner '19  (secretary@bergems.org)
 
 **Treasurer:** Luke Miller '20 (treasurer@bergems.org)
 
