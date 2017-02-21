@@ -1,8 +1,8 @@
-Welcome to our 11 newest members of MCEMS! We are so happy to have you join our ranks!
+Welcome to our 3 newest members of MCEMS! We are so happy to have you join our ranks!
 ======================================================================================
 
-**9 PROBATIONARY MEMBERS (EMT):** Sydney Carey, Kayla Ciok, Anthony DiPalma, Alex Domaradsky, Jared Krieger, Jason Richwall, Jaimie Shinberg, Luke Miller, and Dalas Zeichner
+**2 PROBATIONARY MEMBERS (EMT):** Meray Faragalla, Stephanie Ng
 
-**2 TRAINING CORPS (non-EMTs):** Charles Groves, Katarina Liberatore
+**1 TRAINING CORPS (non-EMTs):** Jacob Fischman
 
 We are looking forward to getting to know all of you!!!
