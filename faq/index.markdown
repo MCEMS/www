@@ -36,7 +36,7 @@ Campus Safety officers respond along with EMS to most calls for our protection w
 
 ### Are most of your patients just intoxicated students?
 
-While it is true that we respond to students who need medical assistance related to alcohol consupmtion, they do not make up the majority of our calls. In the 2016-2017 academic year, only 26% of our calls were related to alcohol.
+While it is true that we respond to students who need medical assistance related to alcohol consumption, they do not make up the majority of our calls. In the 2016-2017 academic year, only 26% of our calls were related to alcohol.
 
 ### Will my parents or friends find out that I went to the hospital?
 
