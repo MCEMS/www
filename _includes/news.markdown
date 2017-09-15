@@ -1,8 +1,8 @@
-Welcome to our 3 newest members of MCEMS! We are so happy to have you join our ranks!
+Welcome to our 6 newest members of MCEMS! We are so happy to have you join our ranks!
 ======================================================================================
 
-**2 PROBATIONARY MEMBERS (EMT):** Meray Faragalla, Stephanie Ng
+**3 PROBATIONARY MEMBERS (EMT):** Jessica Orofino, Lauren Schultze, Marissa Kolinsky
 
-**1 TRAINING CORPS (non-EMTs):** Jacob Fischman
+**3 TRAINING CORPS (non-EMTs):** Alyssa Roberts, Ethan Forrer, Katharine Chen
 
 We are looking forward to getting to know all of you!!!
