@@ -8,30 +8,28 @@ description: Current MCEMS line officers, executive board, and advisors.
 Line Officers
 =============
 
-**Captain:** Melissa Edgar '18
+**Captain:** Dalas Zeichner '19
 
-**1st Lieutenant:** Gregory Kantor '18
+**1st Lieutenant:** Luke Miller '20
 
 Executive Board
 ===============
 
-**President:** Jeremy Eichler '19
+**President:** Jamie Shinberg '20
 
-**Secretary:** Dalas Zeichner '19  (secretary@bergems.org)
+**Secretary:** Jessica Orofino '21  (secretary@bergems.org)
 
-**Treasurer:** Luke Miller '20 (treasurer@bergems.org)
+**Treasurer:** Alyssa Horwitz '19 (treasurer@bergems.org)
 
-**Technology Officer:** Nathan Brown '18 
+**Infection Control Officer:** Meray Faragalla '20
 
-**Infection Control Officer:** Alyssa Horwitz '19
+**Supply Managers:** Kayla Ciok '20 and Ethan Forrer '21
 
-**Supply Managers:** Jamie Shinberg '20 and Kayla Ciok '20
+**Recording Secretary:** Alyssa Roberts '20
 
-**Recording Secretary:** Dalas Zeichner '19
+**Social Coordinators:** Rachel Rochelson '18 (spring) and Jeremy Eichler '19 (fall)
 
-**Social Coordinators:** Francie Koitz '19
-
-**Publicity Coordinator:** Rachel Rochelson '18
+**Publicity Coordinator:** Francine Koitz '19
 
 Medical Director
 ================
