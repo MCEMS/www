@@ -23,7 +23,7 @@ Executive Board
 
 **Infection Control Officer:** Meray Faragalla '20
 
-**Supply Managers:** Kayla Ciok '20 and Ethan Forrer '21
+**Supply Managers:** Ethan Forrer '21
 
 **Recording Secretary:** Alyssa Roberts '20
 
