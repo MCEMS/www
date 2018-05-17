@@ -14,7 +14,7 @@ Call Campus Safety at [(484) 664-3110](tel:+14846643110) and ask for MCEMS to be
 
 ### How long does it take EMS to arrive?
 
-On-duty EMTs are paged by the Campus Safety dispatcher using a radio system and respond from wherever they are on campus. During the 2016-2017 academic year, an EMT was on scene in an average of about five minutes after being dispatched.
+On-duty EMTs are paged by the Campus Safety dispatcher using a radio system and respond from wherever they are on campus. During the 2017-2018 academic year, an EMT was on scene typically less than four minutes minutes after being dispatched.
 
 ### How many calls do you respond to?
 
