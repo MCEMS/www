@@ -34,7 +34,7 @@ Executive Board
 Medical Director
 ================
 
-Our medical director is Dr. Eric Goldman.
+Our medical director is Dr. Marc Lewbart.
 
 Advisors
 ========
