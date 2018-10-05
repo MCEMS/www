@@ -1,8 +1,8 @@
-Welcome to our 5 newest members of MCEMS! We are so happy to have you join our ranks!
+Welcome to our 11 newest members of MCEMS! We are so happy to have you join our ranks!
 ======================================================================================
 
-**1 PROBATIONARY MEMBER (EMT):** Hannah Gura
+**3 PROBATIONARY MEMBERs (EMT):** Jill Lissner, Miranda Robinson, and Eli Sommer
 
-**4 TRAINING CORPS (non-EMTs):** Bahaa Abdellatif, Nina Hernandez, Ji Ku, and Sarah Vetesi
+**8 TRAINING CORPS (non-EMTs):** Lauren Bunch, Sephora Delice, John Henry, Sofia Herrera, Jess Oxer, Vanessa Pham, Kevan Shah, and Shakira Uculmana
 
 We are looking forward to getting to know all of you!!!
