@@ -10,26 +10,28 @@ Line Officers
 
 **Captain:** Dalas Zeichner '19
 
-**1st Lieutenant:** Luke Miller '20
+**1st Lieutenant:** Jeremy Eichler '19
+
+**2nd Lieutenant:** Jamie Shinberg '20
 
 Executive Board
 ===============
 
-**President:** Jamie Shinberg '20
+**President:** Jess Orofino '21
 
-**Secretary:** Jessica Orofino '21  (secretary@bergems.org)
+**Secretary:** Katie Chen '21  (secretary@bergems.org)
 
-**Treasurer:** Alyssa Horwitz '19 (treasurer@bergems.org)
+**Treasurer:** Alyssa Roberts '20 (treasurer@bergems.org)
 
 **Infection Control Officer:** Meray Faragalla '20
 
-**Supply Managers:** Ethan Forrer '21
+**Supply Manager:** Jill Lissner '21
 
-**Recording Secretary:** Alyssa Roberts '20
+**Recording Secretary:** Miranda Robinson '21
 
-**Social Coordinators:** Rachel Rochelson '18 (spring) and Jeremy Eichler '19 (fall)
+**Social Coordinator:** Hannah Gura '20
 
-**Publicity Coordinator:** Francine Koitz '19
+**Publicity Coordinators:** Jess Oxer '21 and Shakira Uculmana '22
 
 Medical Director
 ================
