@@ -19,13 +19,13 @@ Executive Board
 
 **President:** Jess Orofino '21
 
-**Secretary:** Katie Chen '21  (secretary@bergems.org)
+**Secretary:** Katie Chen '21
 
-**Treasurer:** Alyssa Roberts '20 (treasurer@bergems.org)
+**Treasurer:** Alyssa Roberts '20
 
-**Infection Control Officer:** Meray Faragalla '20
+**Infection Control Officer:** 
 
-**Supply Manager:** Jill Lissner '21
+**Supply Manager:** Jill Lissner '21 and Sarah Vetesi '21
 
 **Recording Secretary:** Miranda Robinson '21
 
