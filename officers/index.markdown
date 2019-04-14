@@ -25,11 +25,11 @@ Executive Board
 
 **Infection Control Officer:** 
 
-**Supply Manager:** Jill Lissner '21 and Sarah Vetesi '21
+**Supply Managers:** Jill Lissner '21 and Sarah Vetesi '21
 
 **Recording Secretary:** Miranda Robinson '21
 
-**Social Coordinator:** Hannah Gura '20
+**Social Coordinators:** Hannah Gura '20 and Vanessa Pham '21
 
 **Publicity Coordinators:** Jess Oxer '21 and Shakira Uculmana '22
 
