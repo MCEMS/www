@@ -1,4 +1,4 @@
-Welcome to our 11 newest members of MCEMS! We are so happy to have you join our ranks!
+Welcome to our 3 newest members of MCEMS! We are so happy to have you join our ranks!
 ======================================================================================
 
 **1 PROBATIONARY MEMBER (EMT):** Kayleigh Durning
