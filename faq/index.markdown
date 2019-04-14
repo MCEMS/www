@@ -66,4 +66,4 @@ Many of our members have been cleared to drive QRS-1, our response vehicle, by t
 
 We allow our members to be anywhere on campus while they are on duty. Each member carries a radio and a pager to be alerted to calls and for communication with the rest of the duty crew. We have also rolled out a computer-based dispatching system, [Active911](https://active911.com/), that works through mobile phone apps for daytime response.
 
-If this sounds appealing to you, come find us at one of our standbys, [email us](mailto:info@bergems.org), or [learn how to apply for membership](/join-mcems/)!
+If this sounds appealing to you, come find us at one of our standbys, [email us](mailto:bergems1999@gmail.com), or [learn how to apply for membership](/join-mcems/)!
