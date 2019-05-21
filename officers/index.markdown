@@ -8,20 +8,19 @@ description: Current MCEMS line officers, executive board, and advisors.
 Line Officers
 =============
 
-**Captain:** Dalas Zeichner '19
+**Captain:** Jamie Shinberg '20
 
-**1st Lieutenant:** Jeremy Eichler '19
+**1st Lieutenant:** Jess Orofino '21
 
-**2nd Lieutenant:** Jamie Shinberg '20
 
 Executive Board
 ===============
 
-**President:** Jess Orofino '21
+**President:** Alyssa Roberts '20
 
 **Secretary:** Katie Chen '21
 
-**Treasurer:** Alyssa Roberts '20
+**Treasurer:** Kayleigh Durning '22
 
 **Infection Control Officer:** 
 
