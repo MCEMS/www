@@ -1,8 +1,8 @@
-Welcome to our 3 newest members of MCEMS! We are so happy to have you join our ranks!
+Welcome to our 9 newest members of MCEMS! We are so happy to have you join our ranks!
 ======================================================================================
 
-**1 PROBATIONARY MEMBER (EMT):** Kayleigh Durning
+**3 PROBATIONARY MEMBERS (EMTs):** Chloe Smith, Kelli St. Clair, and Nour Yousry
 
-**2 TRAINING CORPS (non-EMTs):** Lindsay Scott, Cece Peden
+**6 TRAINING CORPS (non-EMTs):** Jason Ivey, Sebastian Leyes, Deanny Rodriguez, Jessica Rostron, Giovanni Tafuri, Isabella van der Weide
 
 We are looking forward to getting to know all of you!!!
