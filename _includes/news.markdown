@@ -1,8 +1,8 @@
-Welcome to our 9 newest members of MCEMS! We are so happy to have you join our ranks!
+Welcome to our 4 newest members of MCEMS! We are so happy to have you join our ranks!
 ======================================================================================
 
-**3 PROBATIONARY MEMBERS (EMTs):** Chloe Smith, Kelli St. Clair, and Nour Yousry
+**3 PROBATIONARY MEMBERS (EMTs):** Giulia Gerschel, Danielle Siteman, and Abigail Wilson
 
-**6 TRAINING CORPS (non-EMTs):** Jason Ivey, Sebastian Leyes, Deanny Rodriguez, Jessica Rostron, Giovanni Tafuri, Isabella van der Weide
+**1 TRAINING CORPS (non-EMTs):** Katelyn Graver
 
 We are looking forward to getting to know all of you!!!
