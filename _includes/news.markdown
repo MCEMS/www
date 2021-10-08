@@ -1,4 +1,4 @@
-### Congratulations to out newset Crew Chief
+### Congratulations to our Newest Crew Chief
 
 Crew Chief:  Jacob Brick '24
 
