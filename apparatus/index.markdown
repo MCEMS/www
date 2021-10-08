@@ -16,7 +16,7 @@ In 2014, we purchased a new vehicle, radio-designated QRS-1, as our primary resp
     <div class="thumbnail">
       <img src="/assets/images/rear_cabinet.jpg">
       <div class="caption">
-        <p>Our rear cabinet was built by Admiral Specialty Vehicles to hold the specific equipment that EMTs must use on calls. This lightweight Aluminum cabinet takes up the entirety of the trunk. Despite not being able to see out of the back window, the cabinet allows EMTs to organize equipment in order to more efficiently grab it on a call.</p>
+        <p>Our rear cabinet was built by Admiral Specialty Vehicles to hold the specific equipment that EMTs must use on calls. This lightweight Aluminum cabinet takes up the entirety of the trunk. The cabinet allows EMTs to organize equipment in order to more efficiently grab it on a call.</p>
       </div>
     </div>
   </div>
