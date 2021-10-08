@@ -8,29 +8,29 @@ description: Current MCEMS line officers, executive board, and advisors.
 Line Officers
 =============
 
-**Captain:** Jamie Shinberg '20
+**Captain:** Kayleigh Durning '22
 
-**1st Lieutenant:** Jess Orofino '21
+**1st Lieutenant:** Lindsey Scott '22
 
 
 Executive Board
 ===============
 
-**President:** Alyssa Roberts '20
+**President:** Cece Peden '22
 
-**Secretary:** Katie Chen '21
+**Secretary:** Giulia Gerschel, '23
 
-**Treasurer:** Kayleigh Durning '22
+**Treasurer:** Nour Yousry '23
 
-**Infection Control Officer:** 
+**Infection Control Officer:** Nour Yousry '23
 
-**Supply Managers:** Jill Lissner '21 and Sarah Vetesi '21
+**Supply Managers:** Jason Ivey '23
 
-**Recording Secretary:** Miranda Robinson '21
+**Recording Secretary:** Gulia Girshal '23
 
-**Social Coordinators:** Hannah Gura '20 and Vanessa Pham '21
+**Social Coordinators:** Jacob Brick '24
 
-**Publicity Coordinators:** Jess Oxer '21 and Shakira Uculmana '22
+**Publicity Coordinators:** Jacob Brick '24
 
 Medical Director
 ================
