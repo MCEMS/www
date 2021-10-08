@@ -1,6 +1,5 @@
-### Welcome to our 5 newest members!
+### Congratulations to out newset Crew Chief
 
-* 2 **Probationary Members (EMTs):** Jacob Brick and Samantha Lipson
-* 3 **Training Corps (non-EMTs):** Gianna Anzalone, Lauren Washco, and Riley Wexler
+*Crew Chief:**  Jacob Brick '24
 
-We are so happy to have you join our ranks and are looking forward to getting to know all of you!
+Congratulations to our dedicated member, EMT Jacob Brick ‘24 on his promotion to the rank of Crew Chief! Crew Chiefs are the highest on-scene and supervising members that have demonstrated both leadership and strength in all the disciplines that go into managing medical emergencies. This is a big accomplishment - amazing job Jacob!
