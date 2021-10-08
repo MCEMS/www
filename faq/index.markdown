@@ -14,7 +14,7 @@ Call Campus Safety at [(484) 664-3110](tel:+14846643110) and ask for MCEMS to be
 
 ### How long does it take EMS to arrive?
 
-On-duty EMTs are paged by the Campus Safety dispatcher using a radio system and respond from wherever they are on campus. During the 2017-2018 academic year, an EMT was on scene typically less than four minutes minutes after being dispatched.
+On-duty EMTs are paged by the Campus Safety dispatcher using a radio system and respond from wherever they are on campus. During the 2017-2018 academic year, an EMT was on scene typically less than four minutes after being dispatched.
 
 ### How many calls do you respond to?
 
@@ -60,7 +60,7 @@ While MCEMS does not bill for its services, [Allentown EMS](http://www.allentown
 
 ### What is it like to be a member of MCEMS?
 
-Our membership consists of {{ site.data.membership.emt }} EMTs and {{ site.data.membership.training_corps }} members of our Training Corps. Each member is required to ride a certain number of 17- or 24-hour shifts per month, usually 1-3 depending on the number of days and current membership size and ranks. Each shift will have a Crew Chief, a senior member of the organization who holds overall responsibility for the calls. Usually, there will be one or two additional EMTs, and often a member of the training corps.
+Our membership consists of {{ site.data.membership.emt }} EMTs and {{ site.data.membership.training_corps }} members of our Training Corps. Each member is required to ride a certain number of 18- or 24-hour shifts per month, usually 1-3 depending on the number of days and current membership size and ranks. Each shift will have a Crew Chief, a senior member of the organization who holds overall responsibility for the calls. Usually, there will be one or two additional EMTs, and often a member of the training corps.
 
 Many of our members have been cleared to drive QRS-1, our response vehicle, by taking an Emergency Vehicle Operator Course (EVOC) as well as going through our own familiarization program. We hold monthly training drills at which we review and practice skills, learn new protocols, and do team building exercises.
 
