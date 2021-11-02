@@ -1,9 +1,11 @@
 ### Help MCEMS welcome our newest members!
 
 Non PA-EMT Observer:
+
 -Gabriel Kanter-Goodell, NREMT
 
 Training Corps:
+
 -Josh Levin 
 -Patricia Madrigal 
 -Sarah Zulewski 
