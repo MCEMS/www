@@ -1,5 +1,15 @@
-### Congratulations to our Newest Crew Chief
+### Help MCEMS welcome our newest members!
 
-Crew Chief:  Jacob Brick '24
+Non PA-EMT Observer:
+-Gabriel Kanter-Goodell, NREMT
 
-Congratulations to our dedicated member, EMT Jacob Brick ‘24 on his promotion to the rank of Crew Chief! Crew Chiefs are the highest on-scene and supervising members that have demonstrated both leadership and strength in all the disciplines that go into managing medical emergencies. This is a big accomplishment - amazing job Jacob!
+Training Corps:
+-Josh Levin 
+-Patricia Madrigal 
+-Sarah Zulewski 
+-Eva Bartholomew 
+-Jonathan Karam 
+-Colin Burke 
+-Riley Overton 
+
+Congratulations to you all for making it this far! Becoming a member of MCEMS is no easy task. You should all be very proud. Welcome to MCEMS!
