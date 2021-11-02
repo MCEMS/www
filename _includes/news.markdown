@@ -1,4 +1,4 @@
-### Help MCEMS welcome our newest members!
+### Help MCEMS Welcome our Newest Members!
 
 Non PA-EMT Observer:
 
