@@ -8,34 +8,29 @@ description: Current MCEMS line officers, executive board, and advisors.
 Line Officers
 =============
 
-**Captain:** Kayleigh Durning '22
+**Captain:** Nour Yousry '23
 
-**1st Lieutenant:** Lindsey Scott '22
+**1st Lieutenant:** Jacob Brick '24
+
+**2nd Lieutenant:** Giulia Gerschel '23
 
 
 Executive Board
 ===============
 
-**President:** Cece Peden '22
+**President:** Jack Rubins '22
 
-**Secretary:** Giulia Gerschel, '23
+**Secretary:** Gabriel Kanter-Gooddell '25
 
-**Treasurer:** Nour Yousry '23
-
-**Infection Control Officer:** Nour Yousry '23
+**Treasurer:** Lauren Washco '24
 
 **Supply Managers:** Jason Ivey '23
 
-**Recording Secretary:** Gulia Girshal '23
-
-**Social Coordinators:** Jacob Brick '24
-
-**Publicity Coordinators:** Jacob Brick '24
 
 Medical Director
 ================
 
-Our medical director is Dr. Marc Lewbart.
+Our medical director is Dr. Marc Lewbart D.O.
 
 Advisors
 ========
