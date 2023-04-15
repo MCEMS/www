@@ -28,9 +28,9 @@ Line Officers
 Medical Director
 ================
 
-Our medical director is Dr. Zach Matuzan D.O.. He is an Emergency Medicine physision trained in pre-hospital EMS. Dr. Matuzan Curretly works for the Lehigh Vally Health network.
+Our medical director is Dr. Zach Matuzsan D.O.. He is an Emergency Medicine Physician trained in pre-hospital EMS. Dr. Matuzsan Curretly works for the Lehigh Vally Health network.
 
-Learn more about Dr. Matuzan here:
+Learn more about Dr. Matuzsan here:
 
 https://www.lvhn.org/doctors/zachary-matuzsan
 
