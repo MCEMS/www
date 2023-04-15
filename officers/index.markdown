@@ -2,7 +2,7 @@
 layout: default
 title: MCEMS Line Officers and Executive Board
 redirect_from: /page/executive-board
-description: Current MCEMS line officers, executive board, and advisors.
+description: Current MCEMS executive board, line officers, and advisors.
 ---
 
 Executive Board
