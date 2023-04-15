@@ -5,32 +5,34 @@ redirect_from: /page/executive-board
 description: Current MCEMS line officers, executive board, and advisors.
 ---
 
-Line Officers
-=============
-
-**Captain:** Nour Yousry '23
-
-**1st Lieutenant:** Jacob Brick '24
-
-**2nd Lieutenant:** Giulia Gerschel '23
-
-
 Executive Board
 ===============
 
-**President:** Jack Rubins '22
+**President:** Jacob Brick '24
 
-**Secretary:** Gabriel Kanter-Gooddell '25
+**Secretary:** Or-El Ankori '25
 
-**Treasurer:** Lauren Washco '24
+**Treasurer:** Teigan Brown '25
 
-**Supply Managers:** Jason Ivey '23
+**Supply Managers:** Sana Neuman '26
+
+
+Line Officers
+=============
+
+**Captain:** Gabe Kanter-Goodell '25
+
+**1st Lieutenant:** Lauren Washco '24
 
 
 Medical Director
 ================
 
-Our medical director is Dr. Marc Lewbart D.O.
+Our medical director is Dr. Zach Matuzan D.O.. He is an Emergency Medicine physision trained in pre-hospital EMS. Dr. Matuzan Curretly works for the Lehigh Vally Health network.
+
+Learn more about Dr. Matuzan here:
+
+https://www.lvhn.org/doctors/zachary-matuzsan
 
 Advisors
 ========
