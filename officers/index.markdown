@@ -14,7 +14,6 @@ Executive Board
 
 **Treasurer:** Teigan Brown '25
 
-**Supply Managers:** Sana Neuman '26
 
 
 Line Officers
@@ -35,6 +34,6 @@ Learn more about Dr. Matuzsan here:
 https://www.lvhn.org/doctors/zachary-matuzsan
 
 Advisors
-========
+======== 
 
 Our advisors are Chief Brian Fidati of the Department of Campus Safety and Brynnmarie Dorsey, the director of Health Services.
