@@ -16,6 +16,6 @@
 - url: /contact/index.html
   href: /contact/
   text: Contact
-- url: /shift-roster/index.html
+- url: /shift-roster/index.markdown
   href: /shift-roster/
   text: Shift Roster
