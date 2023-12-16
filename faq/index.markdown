@@ -14,11 +14,11 @@ Call Campus Safety at [(484) 664-3110](tel:+14846643110) and ask for MCEMS to be
 
 ### How long does it take EMS to arrive?
 
-On-duty EMTs are paged by the Campus Safety dispatcher using a radio system and respond from wherever they are on campus. During the 2017-2018 academic year, an EMT was on scene typically less than four minutes after being dispatched.
+On-duty EMTs are paged by the Campus Safety dispatcher using a radio system and respond from wherever they are on campus. Our average response time is 4 minutes from receiving the call.
 
 ### How many calls do you respond to?
 
-During the 2016-2017 academic year, we responded to 175 calls, with an additional 20 requests for medical standby services at campus events.
+It tends to flucutate, but we respond to roughly 150 calls per year. We also serve the campus community by conducting [standbys](/standby-request).
 
 <div class="pull-right" style="max-width:40%;margin:1em;">
   <div class="thumbnail">
@@ -28,7 +28,7 @@ During the 2016-2017 academic year, we responded to 175 calls, with an additiona
 
 ### When does MCEMS operate?
 
-As of March 2016, MCEMS operates 24 hours during the school year. During the daytime, Campus Safety dispatches MCEMS via the mobile app Active911 when they receive requests for medical assistance on campus. During the hours the Health Center is not open (5:00 pm to 8:00 am and 24 hours on the weekends), MCEMS operates a duty crew that responds to requests for medical assistance. 
+As of March 2016, MCEMS operates 24 hours during the school year. During the daytime, Campus Safety dispatches MCEMS via the mobile app IamResponding when they receive requests for medical assistance on campus. During the hours the Health Center is not open (5:00 pm to 8:00 am and 24 hours on the weekends), MCEMS operates a duty crew that responds to requests for medical assistance. 
 
 ### Why does Campus Safety show up on medical calls? Am I in trouble?
 
@@ -36,7 +36,7 @@ Campus Safety officers respond along with EMS to most calls for our protection w
 
 ### Are most of your patients just intoxicated students?
 
-While it is true that we respond to students who need medical assistance related to alcohol consumption, they do not make up the majority of our calls. In the 2016-2017 academic year, only 26% of our calls were related to alcohol.
+While it is true that we respond to students who need medical assistance related to alcohol consumption, they do not make up the majority of our calls. Typically, they make up anywhere from 10-25% of our calls. 
 
 ### Will my parents or friends find out that I went to the hospital?
 
@@ -64,6 +64,6 @@ Our membership consists of {{ site.data.membership.emt }} EMTs and {{ site.data.
 
 Many of our members have been cleared to drive QRS-1, our response vehicle, by taking an Emergency Vehicle Operator Course (EVOC) as well as going through our own familiarization program. We hold monthly training drills at which we review and practice skills, learn new protocols, and do team building exercises.
 
-We allow our members to be anywhere on campus while they are on duty. Each member carries a radio and a pager to be alerted to calls and for communication with the rest of the duty crew. We have also rolled out a computer-based dispatching system, [Active911](https://active911.com/), that works through mobile phone apps for daytime response.
+We allow our members to be anywhere on campus while they are on duty. Each member carries a radio and a pager to be alerted to calls and for communication with the rest of the duty crew. 
 
 If this sounds appealing to you, come find us at one of our standbys, [email us](mailto:bergems1999@gmail.com), or [learn how to apply for membership](/join-mcems/)!
