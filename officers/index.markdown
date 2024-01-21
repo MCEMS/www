@@ -32,7 +32,7 @@ Medical Director
 
 Our medical director is Dr. Zach Matuzsan D.O.. He is an Emergency Medicine Physician trained in pre-hospital EMS. Dr. Matuzsan Curretly works for the Lehigh Vally Health network.
 
-<a href=https://www.lvhn.org/doctors/zachary-matuzsan> Learn more about Dr. Matuzsan here</a>
+<a href="https://www.lvhn.org/doctors/zachary-matuzsan">Learn more about Dr. Matuzsan here</a>
 
 
 Advisors
