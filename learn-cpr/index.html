@@ -21,26 +21,5 @@ image: https://www.bergems.org/assets/images/cpr_class.jpg
   </div>
   <div class="col-md-4">
     <h3><a href="/learn-cpr/signup/" Sign Up here</a> </h3>
-    {% endunless %}
-    {% for session in site.data.cpr %}
-      {% if session.type == 'bystander' %}
-      <div class="panel panel-success">
-        <div class="panel-heading">Bystander CPR</div>
-      {% else if session.type == 'aha' %}
-      <div class="panel panel-info">
-        <div class="panel-heading">AHA Certification</div>
-      {% endif %}
-        <div class="panel-body">
-          <h4>{{ session.start_time | date: '%B %-d, %Y' }}</h4>
-          <p>
-            <b>Where:</b> {{ session.location }}<br>
-            <b>When:</b> {{ session.start_time | date: '%-I:%M %p' }} &ndash; {{ session.end_time | date: '%-I:%M %p' }}
-          </p>
-          {% if session.info %}
-          <p>{{ session.info }}</p>
-          {% endif %}
-        </div>
-      </div>
-    {% endfor %}
-  </div>
+   
 </div>
