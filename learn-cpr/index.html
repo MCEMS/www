@@ -11,7 +11,7 @@ image: https://www.bergems.org/assets/images/cpr_class.jpg
 
     <p>MCEMS offers free bystander CPR classes periodically, and often holds quick workshops at the many campus events we have booths at, such as the Activities Fair, Community Service Fair, and others.</p>
 
-    <p>Bystander CPR teaches students the crucial steps they need to perform to save a life in the event of cardiac arrest. It's quick, easy, and free to learn. Sign up  <a href="http://www.tinyurl.com/mcemscpr">here</a>.</p>
+    <p>Bystander CPR teaches students the crucial steps they need to perform to save a life in the event of cardiac arrest. It's quick, easy, and free to learn. Sign up  <a href="/learn-cpr/signup/">here</a>.</p>
 
     <div class="thumbnail">
       <img src="/assets/images/CPR2021.jpeg">
@@ -19,14 +19,11 @@ image: https://www.bergems.org/assets/images/cpr_class.jpg
 
     <h1>American Heart Association Certification</h1>
 
-    <p>We do charge a $50 to cover the cost of the certification materials if you would like to receive proof of your training. MCEMS does not keep any of this money, it all goes directly to the American Heart Association.</p>
+    <p>Thanks to the generocity of Muhlenberg's Student Government Association, we are able to offer these American Heart Association classes at no cost to you!</p>
 
-    <p>These sessions are offered less frequently, but generally at least once each semester, depending on interest. We can also do a special class just for the members of your organization! Email <a href="mailto:bergems1999@gmail.com">bergems1999@gmail.com</a> to get in touch.</p>
   </div>
   <div class="col-md-4">
-    <h3>Upcoming Sessions</h3>
-    {% unless site.data.cpr %}
-    <p>No sessions currently scheduled. Check back soon!</p>
+    <h3><a href="/learn-cpr/signup/" Sign Up here</a> </h3>
     {% endunless %}
     {% for session in site.data.cpr %}
       {% if session.type == 'bystander' %}
