@@ -10,9 +10,9 @@ Line Officers
 
 **Captain:** Gabe Kanter-Goodell '25
 
-**1st Lieutenant:** Teigan Brown '25
+**1st Lieutenant:** Jonathan Karam '25
 
-**2nd Lieutenant** Jonathan Karam '25
+**2nd Lieutenant** Sana Nauman '26
 
 
 Executive Board
