@@ -8,21 +8,21 @@ description: Current MCEMS executive board, line officers, and advisors.
 Line Officers
 =============
 
-**Captain:** Gabe Kanter-Goodell '25
+**Captain:** Sana Nauman '26
 
-**1st Lieutenant:** Jonathan Karam '25
+**1st Lieutenant:** Dhivya Shepherd
 
-**2nd Lieutenant** Sana Nauman '26
+**2nd Lieutenant**  Avi Soussan
 
 
 Executive Board
 ===============
 
-**President:** Or-El Ankori '25
+**President:** Alex Piteris
 
-**Secretary:** Dhivya Shepherd '26
+**Secretary:** Danny Yaniv
 
-**Treasurer:** Avi Soussan '26
+**Treasurer:** Zara Mansoor
 
 
 
