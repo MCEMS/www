@@ -18,7 +18,7 @@ On-duty EMTs are paged by the Campus Safety dispatcher using a radio system and 
 
 ### How many calls do you respond to?
 
-It tends to flucutate, but we respond to roughly 150 calls per year. We also serve the campus community by conducting [standbys](/standby-request).
+It tends to flucutate, but we respond to roughly 200 calls per year. We also serve the campus community by conducting [standbys](/standby-request).
 
 <div class="pull-right" style="max-width:40%;margin:1em;">
   <div class="thumbnail">
@@ -32,7 +32,7 @@ As of March 2016, MCEMS operates 24 hours during the school year. During the day
 
 ### Why does Campus Safety show up on medical calls? Am I in trouble?
 
-Campus Safety officers respond along with EMS to most calls for our protection while we are working. Additionally, they can often transport patients who do not require an ambulance to the hospital.
+Campus Safety officers respond along with EMS to most calls for our protection while we are working. Additionally, they can often transport patients who do not require an ambulance to the hospital at no cost to the student.
 
 ### Are most of your patients just intoxicated students?
 
