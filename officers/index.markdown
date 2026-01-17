@@ -8,21 +8,19 @@ description: Current MCEMS executive board, line officers, and advisors.
 Line Officers
 =============
 
-**Captain:** Sana Nauman '26
+**Captain:** Zara Mansoor ‘28
 
-**1st Lieutenant:** Dhivya Shepherd
-
-**2nd Lieutenant**  Avi Soussan
+**1st Lieutenant:**  Danny Yaniv ‘28
 
 
 Executive Board
 ===============
 
-**President:** Alex Piteris
+**President:** Debra Farina ‘28
 
-**Secretary:** Danny Yaniv
+**Secretary:** Juliette Amram ‘27
 
-**Treasurer:** Zara Mansoor
+**Treasurer:** Stella Tracy ‘28
 
 
 
